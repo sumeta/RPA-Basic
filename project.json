@@ -12,7 +12,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "20.10.2.0",
-  "projectVersion": "1.0.0",
+  "projectVersion": "1.0.1",
   "runtimeOptions": {
     "autoDispose": false,
     "isPausable": true,
@@ -50,6 +50,12 @@
     {
       "filePath": "Arguments\\Main.xaml",
       "uniqueId": "0d27cb9b-3aeb-4240-93e7-6ae8522d35cf",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Web\\DataScraping.xaml",
+      "uniqueId": "551ea878-0d04-4c02-a951-c8618168294f",
       "input": [],
       "output": []
     }
