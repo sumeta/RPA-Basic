@@ -1,0 +1,3 @@
+Public Function Main()
+ Range("A2").NumberFormat = "0"
+End Function
